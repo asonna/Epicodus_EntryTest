@@ -6,9 +6,9 @@
 
 ## Description
 This game will count up to the user inputted number while replacing some numbers as per the following rules:
-* _Numbers divisible by 3 become “ping” 
-* _Numbers divisible by 5 become “pong” 
-* _Numbers divisible by 3 and 5 become “pingpong”
+* _Numbers divisible by 3 become “ping”_
+* _Numbers divisible by 5 become “pong”_
+* _Numbers divisible by 3 and 5 become “pingpong”_
 
 ## Setup/Installation Requirements
 * _Code was design and built using HTML and CSS file in Atom_
@@ -28,6 +28,6 @@ This game will count up to the user inputted number while replacing some numbers
 
 ## License
 
-#### *{None.}*
+#### *None.*
 
-Copyright (c) 2016 **_{Annie Sonna}_**
+Copyright (c) 2016 - **_Annie Sonna_**
