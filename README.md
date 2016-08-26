@@ -1,14 +1,14 @@
-# _PingPong_
-#### _This game will count up to the user inputted number and have multiple of 3, 5 and 15 replaced with Ping, Pong and PingPong respectively.
+# PingPong Game
+#### This game will count up to the user inputted number and have multiple of 3, 5 and 15 replaced with Ping, Pong and PingPong respectively.
 08-25-2016
 
-#### By _**{Annie Sonna }**_
+#### By **Annie Sonna**
 
 ## Description
-_This game will count up to the user inputted number while replacing some numbers as per the following rules:
-* _Numbers divisible by 3 become “ping” _
-* _Numbers divisible by 5 become “pong” _
-* _Numbers divisible by 3 and 5 become “pingpong”_
+This game will count up to the user inputted number while replacing some numbers as per the following rules:
+* _Numbers divisible by 3 become “ping” 
+* _Numbers divisible by 5 become “pong” 
+* _Numbers divisible by 3 and 5 become “pingpong”
 
 ## Setup/Installation Requirements
 * _Code was design and built using HTML and CSS file in Atom_
